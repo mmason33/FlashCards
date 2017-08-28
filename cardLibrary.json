@@ -1,13 +1,8 @@
 [
   {
-    "type": "ClozeCard",
-    "text": "One of the events that lead to the Revolutionary War was the Boston Massacre where 5 colonists were killed by British soldiers.",
-    "cloze": "Boston Massacre"
-  },
-  {
-    "type": "ClozeCard",
-    "text": "President of the Continental Congress, John Hancock was first to sign the Declaration of Independence.",
-    "cloze": "John Hancock"
+    "type": "BasicCard",
+    "front": "He was a delegate from Virginia at the Second Continental Congress and wrote the Declaration of Independence. He later served as the third President of the United States.",
+    "back": "Thomas Jefferson"
   },
   {
     "type": "ClozeCard",
@@ -20,14 +15,19 @@
     "back": "George Washington"
   },
   {
+    "type": "BasicCard",
+    "front": "A document created after the war that gave the colonists their independence.",
+    "back": "Treaty of Paris"
+  },
+  {
     "type": "ClozeCard",
     "text": "Benjamin Franklin was an American patriot, writer, printer, and inventor. During the Revolutionary War he persuaded the French to help the colonists.",
     "cloze": "Benjamin Franklin"
   },
   {
-    "type": "BasicCard",
-    "front": "A document created after the war that gave the colonists their independence.",
-    "back": "Treaty of Paris"
+    "type": "ClozeCard",
+    "text": "President of the Continental Congress, John Hancock was first to sign the Declaration of Independence.",
+    "cloze": "John Hancock"
   },
   {
     "type": "BasicCard",
@@ -35,9 +35,9 @@
     "back": "Loyalist"
   },
   {
-    "type": "BasicCard",
-    "front": "He was a delegate from Virginia at the Second Continental Congress and wrote the Declaration of Independence. He later served as the third President of the United States.",
-    "back": "Thomas Jefferson"
+    "type": "ClozeCard",
+    "text": "One of the events that lead to the Revolutionary War was the Boston Massacre where 5 colonists were killed by British soldiers.",
+    "cloze": "Boston Massacre"
   },
   {
     "type": "ClozeCard",
@@ -48,5 +48,10 @@
     "type": "BasicCard",
     "front": "A tax that the British Pariliament placed on newspapers and official documents sold in the American Colonies.",
     "back": "Stamp Act"
+  },
+  {
+    "type": "BasicCard",
+    "front": "test",
+    "back": "testing"
   }
 ]

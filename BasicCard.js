@@ -1,5 +1,3 @@
-// Basic Flash Cards
-
 function BasicCard (front, back) {
     this.front = front;
     this.back = back;
